@@ -1,1 +1,1 @@
-# intro_MEF
+## Curso  Introductorio sobre Autómatas de Estado Finito.
